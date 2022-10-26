@@ -4,11 +4,10 @@ The model is built based on the dataset provided by University of New Brunswick.
 
 To see precleaned dataset, check total_Matrix.csv
 
-To run the model, feed in the file total_Matrix.csv, and run the Jupter file.
-
 Reduced feature dimensionality through using PCA;
 Utilized both unsupervised learning(K-Means) and supervised learning(Random Forest) to predict benign network traffic and attacks; 
 Utilized cross-validation to optimize parameters to reduce overfitting;
 
+## To run the model, feed in the file total_Matrix.csv, and run the JupterNotebook file.
 
 
